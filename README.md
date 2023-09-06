@@ -24,4 +24,4 @@ My work for the final project will go here.
 
 
 ***
-_Thank you for taking the time to check out my work!_
+\textcolor{darkorchid}{_Thank you for taking the time to check out my work!_}
