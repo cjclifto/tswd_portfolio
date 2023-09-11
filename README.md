@@ -12,11 +12,8 @@ I already have a serious interest in data visualization prior to this class. Dat
 Once I graduate, I plan to work in the startup world on disease diagnostics platforms. I'm extremely passionate about this field, and I love startup environments for the interdisciplinary nature of their work, mass amounts of opportunity to creatively problem solve, and the challenge of bringing a new technology to the communities it can have the most positive impact on.
 
 ## Portfolio
-### Crafting for Clarity
-My work for Crafting for clarity will go here.
-
 ### Visualizing Government Debt
-My work for visualizing government debt will go here.
+[You can see my interactive data visualizations here](/govt_debt.md)
 
 ### Final Project
 My work for the final project will go here.
