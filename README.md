@@ -14,6 +14,7 @@ Once I graduate, I plan to work in the startup world on disease diagnostics plat
 ## Portfolio
 ### Visualizing Government Debt
 [You can see my interactive data visualizations here](/govt_debt.md)
+<iframe src="https://data.oecd.org/chart/7biI" width="750" height="563" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7biI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
 ### Final Project
 My work for the final project will go here.
