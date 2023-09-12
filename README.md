@@ -13,13 +13,11 @@ Once I graduate, I plan to work in the startup world on disease diagnostics plat
 
 ## Portfolio
 ### Visualizing Government Debt
-[You can see my interactive data visualizations here](/govt_debt.md)
+The visualization below is from the Organisation for Economic Co-operation and Development (OECD) from the [General Government Debt page](https://data.oecd.org/gga/general-government-debt.htm). This visualization shows data from 2017, with the lowest and highest debt-to-GDP ratios highlighted (Estonia and Japan, respectively). The United States is also highlighted to give an easy context clue for American audiences. 
 <iframe src="https://data.oecd.org/chart/7biI" width="750" height="563" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7biI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
-### Final Project
-My work for the final project will go here.
-
-
+The following visualization shows many countries' debt-to-GDP ratios from 1995-2021. Many countries have experienced a consistent rise in government debt since the mid-1990s, with a spike during 2020 - or, the onset of the COVID-19 pandemic. However, all countries besides Latvia, Brazil, and New Zealand show a decrease from this spike post-pandemic.
+<div class="flourish-embed flourish-chart" data-src="visualisation/14987756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ***
 _Thank you for taking the time to check out my work!_
