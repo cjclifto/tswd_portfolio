@@ -1,7 +1,11 @@
 # Visualizing Student Debt in the United States
 Telling Stories with Data
+
 Assignment 3 & 4: Critique by Design
+
 Author: Clarissa Clifton
+
+[Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
 
 ## Original data visualization background
 The visualization I chose to critique and redesign is about student debt in the United States. [The Forbes article in which I found the data](https://www.forbes.com/advisor/student-loans/average-student-loan-debt-statistics/)
