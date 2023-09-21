@@ -85,7 +85,47 @@ I think the original data vis can be made better in numerous different ways; fir
 ![studentdebt_idea2](https://github.com/cjclifto/tswd_portfolio/assets/140766598/eea7879b-14b9-4cd1-9be9-309c471f5e24)
 
 ## Critique... of my designs
+I made some rough versions of my map and time animation, then spoke to two other people unfamiliar with my data to assess how my redesign ideas stood up. Main points from their responses are summarized below.
 
+<div class="flourish-embed flourish-map" data-src="visualisation/15086180"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/15091594"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Student, late 20s
+Hex map:
+*What does this communicate to you?*
+There is higher student debt in the Eastern United States, and not much in the Southwest.
+
+*Is there anything confusing about this?*
+Not much confusing with how the data is laid out, but a lighter color for the lesser values implies a loan value close to $0. The lowest value shown is actually $18k, so the amount is still high. Suggest changing the color scale to where the lowest value ($18k) is still obviously red, then the highest value ($40k) can be a much darker red.
+
+Debt by Loan Type animation: 
+*What does this communicate to you?*
+Direct loan debt has increased over time, but the other two loan types have decreased over time. Why is that? There has been a drastic increase in student loans in the last 
+
+*Is there anything confusing about this?*
+The animation is cool, but difficult to understand at first glance. I have to watch the loop a few times to understand what is being communicated. An area plot might be a better way to visualize this data statically, if the message you're trying to get accross is the increasing level of debt overall.
+
+### Adult, early 30s
+Hex map:
+*What does this communicate to you?*
+There is more debt in the Eastern United States. 
+
+*Is there anything confusing about this?* 
+The location of each state isn't where expected, due to the uniformly sized hex tiles.
+
+Debt by Loan Type animation:
+*What does this communicate to you?*
+Debt is increasing over time. Direct loans seem to have gotten more common than the other two types.
+
+*Is there anything confusing about this?*
+The animation distracts from looking at what each color means. I'm also not sure what each different type of loan means, or why that matters for the message of the data. If I want to check what the sizes correspond to, I have to pause the animation and then scroll back to the data point I'm interested in seeing the size of. 
 
 ## Final proposal for the authors at Forbes dot com
-The first idea I had was to make a geospatial representation of the
+For my final proposal of each data visualization, I implemented some the feedback I got from my interviews. Specifically, I changed the color scheme of the map - I hadn't thought about the $18k values looking like no debt compared to the darker red, so I thought this was a good change! I also decided to cut out the time animation entirely, as I agreed that it was too much to look at and distracted from the message I was trying to convey. I also created an area plot, as one interviewee suggessted, instead of a line graph for the debt by loan type over time data. I liked the way this change in visualization type conveyed the sense more visually that student debt is a HUGE dollar amount. I also chose to check statistics for what college tuition costs these days, compared to 15 years ago, to attempt telling a more complete story with the data. I didn't feel it was necessary to actually show how this data changed over time; I thought a callout statistic in the subtitle of the graph communicated effectively the point I was trying to get accross. While I didn't originally intend to include my original sketch idea of the line plot in my final data visualizations, I ended up making a cleaner version of it for the final plot suggestions below, as well, using some of the general stylistic critiques I got for my other two visualization ideas. I felt the comments about the loan types being confusing were valid, but I also feel that readers of Forbes magazine are generally business-minded, ecomonically interested people, so I wouldn't be surprised if many of them actually *do* know what all the nuanced differences in the loan types are. Overall, I feel these data visualizations, while not exceptionally fancy, do a much better job than the visualizations in the original Forbes article at actually using data to tell a story or get a message across, rather than presenting a reader with a bunch of raw data.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/15086564"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15089512"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/15091661"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
