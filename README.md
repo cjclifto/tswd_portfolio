@@ -1,7 +1,7 @@
 # Telling Stories with Data Portfolio - Clarissa Clifton
 This is a repository to store and showcase work done during my Telling Stories with Data class at CMU
 
-Link to live site --> https://cjclifto.github.io/tswd_portfolio/
+[Link to live site](https://cjclifto.github.io/tswd_portfolio/)
 
 ## Who is Clarissa?
 My name is Clarissa (she/her). I am a Dual MS student at Carnegie Mellon studying Biomedical Engineering and Engineering & Technology Innovation Management. I am passionate about designing diagnostics devices, particularly for applications in rural areas or areas of the world without easy access to medical clinics. Outside of my career path, I love doing art - I always have my hands in some sort of creative project! 
