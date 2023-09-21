@@ -97,32 +97,44 @@ I made some rough versions of my map and time animation, then spoke to two other
 
 ### Student, late 20s
 Hex map:
+
 *What does this communicate to you?*
+
 There is higher student debt in the Eastern United States, and not much in the Southwest.
 
 *Is there anything confusing about this?*
+
 Not much confusing with how the data is laid out, but a lighter color for the lesser values implies a loan value close to $0. The lowest value shown is actually $18k, so the amount is still high. Suggest changing the color scale to where the lowest value ($18k) is still obviously red, then the highest value ($40k) can be a much darker red.
 
 Debt by Loan Type animation: 
+
 *What does this communicate to you?*
+
 Direct loan debt has increased over time, but the other two loan types have decreased over time. Why is that? There has been a drastic increase in student loans in the last 
 
 *Is there anything confusing about this?*
+
 The animation is cool, but difficult to understand at first glance. I have to watch the loop a few times to understand what is being communicated. An area plot might be a better way to visualize this data statically, if the message you're trying to get accross is the increasing level of debt overall.
 
 ### Adult, early 30s
 Hex map:
+
 *What does this communicate to you?*
+
 There is more debt in the Eastern United States. 
 
-*Is there anything confusing about this?* 
+*Is there anything confusing about this?*
+
 The location of each state isn't where expected, due to the uniformly sized hex tiles.
 
 Debt by Loan Type animation:
+
 *What does this communicate to you?*
+
 Debt is increasing over time. Direct loans seem to have gotten more common than the other two types.
 
 *Is there anything confusing about this?*
+
 The animation distracts from looking at what each color means. I'm also not sure what each different type of loan means, or why that matters for the message of the data. If I want to check what the sizes correspond to, I have to pause the animation and then scroll back to the data point I'm interested in seeing the size of. 
 
 ## Final proposal for the authors at Forbes dot com
@@ -133,3 +145,6 @@ For my final proposal of each data visualization, I implemented some the feedbac
 <div class="flourish-embed flourish-chart" data-src="visualisation/15089512"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-map" data-src="visualisation/15091661"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+***
+_Thank you for taking the time to check out my work!_
