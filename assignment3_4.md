@@ -17,7 +17,8 @@ This table continues for all fifty states, and similar tables are recreated thro
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1695261832039');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  var vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var vizElement.style.width='100%';
+  var vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   var scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   var vizElement.parentNode.insertBefore(scriptElement, vizElement);                
