@@ -8,7 +8,7 @@ Author: Clarissa Clifton
 [Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
 
 ## Original data visualization background
-The visualization I chose to critique and redesign is about student debt in the United States. [The Forbes article in which I found the data](https://www.forbes.com/advisor/student-loans/average-student-loan-debt-statistics/)
+The visualization I chose to critique and redesign is about student debt in the United States. [The Forbes article in which I found the data (Hahn, Tarver, 2023)](https://www.forbes.com/advisor/student-loans/average-student-loan-debt-statistics/)
 appears to simply point out how much the cost of college-level education has increased, rather than pointing out any trends or making any analysis. It reads as a fact list with raw data included.
 
 ## Critique
@@ -52,7 +52,7 @@ This table continues for all fifty states, and similar tables are recreated thro
 </script>
 
 ### Usefulness
-The data is useful in that it outlines trends in student loan debt in the US. Forbes’s main audience is business owners and entrepreneurs - bc student loan debt generally decreases spending, it may be important for businesses to know where in the country they might see decreased spending from certain demographics. However, the way the data is presented, it’s just an information dump, and the link to decreased spending isn’t explicitly made.
+The data is useful in that it outlines trends in student loan debt in the US. Forbes’s main audience is business owners and entrepreneurs - because student loan debt generally decreases spending, it may be important for businesses to know where in the country they might see decreased spending from certain demographics. However, the way the data is presented, it’s just an information dump, and the link to decreased spending isn’t explicitly made.
 
 ### Completeness
 All data points are present for multiple metrics, and a reader could make their own conclusions by noticing general trends if they worked for it. However, no trends or comparisons for contextualization are made by the authors, and too much data may be included; feels more like a supplemental info document than an article trying to argue a point.
