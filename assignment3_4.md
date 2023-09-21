@@ -47,7 +47,6 @@ This table continues for all fifty states, and similar tables are recreated thro
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
 ### Usefulness
 The data is useful in that it outlines trends in student loan debt in the US. Forbes’s main audience is business owners and entrepreneurs - bc student loan debt generally decreases spending, it may be important for businesses to know where in the country they might see decreased spending from certain demographics. However, the way the data is presented, it’s just an information dump, and the link to decreased spending isn’t explicitly made.
 
@@ -79,8 +78,14 @@ The primary Forbes audience is young, entrepreneurial business owners, managers,
 The data visualization effectiveness profile method is a good tool to evaluate the visualization I selected, because it covers aspects of a visualization that focus on the quality of the communicated information. For example, it doesn’t focus on the pure aesthetics of the visualization from an artistic stance, but rather on whether or not the aesthetics either improve or detract from the audience's understanding of the message. I don’t feel there is anything obvious missing from this evaluation method. For my chosen visualization, the first thing I would change is the visualization type. I plan to play around with a few different types to see which I like the best; at the very least, a bar chart would be a drastic improvement to the original tables. The second thing I would change is to combine the information presented across numerous tables in the article into one (max 2) graphics. The data is presented without much actual stance being communicated; integrating the information from multiple sides of the student debt crisis would allow the reader to have a holistic understanding of how pervasive the massive amount of student debt in the US is. A data visualization is a bit of a wasted effort if it’s not used to make a point about something.
 
 ## How can we make this better?
+I think the original data vis can be made better in numerous different ways; first and foremost, let's actually *make* a visualization with the raw data! The first idea I had was to select only a subset of the tables presented in the Forbes article to focus on. I chose the debt by location and debt by loan type tables to focus on. For the debt by location, my idea was to make a hex map - the thought here was to avoid making the point of caution pointed out in my government debt assignment of making darker color/higher value regions on a map look less important because they take up less space on the map. With a hex map, I figure it will be easier to see states that stand out in value, not size. I also wanted to make some sort of animation across time with the debt by loan type data. I also thought of making a static line graph that represented the number of people granted each loan type per year with the size of the dot on each data point. Sketches of each are shown below:
+
+![studentdebt_wireframe](https://github.com/cjclifto/tswd_portfolio/assets/140766598/02b76efa-faa0-486a-8398-6a0d05921589)
+
+![studentdebt_idea2](https://github.com/cjclifto/tswd_portfolio/assets/140766598/eea7879b-14b9-4cd1-9be9-309c471f5e24)
 
 ## Critique... of my designs
 
 
 ## Final proposal for the authors at Forbes dot com
+The first idea I had was to make a geospatial representation of the
