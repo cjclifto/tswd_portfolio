@@ -1,7 +1,9 @@
 ## Visualizing Government Debt
 Author: Clarissa Clifton
+
 Last Updated: 11 Sept 2023
-[Link to portfolio main page](/README.md)
+
+[Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
 
 The visualization below is from the Organisation for Economic Co-operation and Development (OECD) from the [General Government Debt page](https://data.oecd.org/gga/general-government-debt.htm). This visualization shows data from 2017, with the lowest and highest debt-to-GDP ratios highlighted (Estonia and Japan, respectively). The United States is also highlighted to give an easy context clue for American audiences. 
 
