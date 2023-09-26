@@ -4,6 +4,8 @@ Authored by Clarissa Clifton
 
 Last edited: 26 September 2023
 
+[Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
+
 ### The Big Picture
 
 ### Initial Sketches
