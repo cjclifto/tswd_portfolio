@@ -1,5 +1,7 @@
-## Sustainability in the Fashion Industry
-### The feasibility of textile recycling on an industrial scale
+# Sustainability in the Fashion Industry
+## The feasibility of textile recycling and circular fashion on an industrial scale
+Final Assignment, Part I
+
 Authored by Clarissa Clifton
 
 Last edited: 26 September 2023
@@ -21,13 +23,25 @@ Then, I framed the story I wanted to tell using the story arc below:
 
 ![story_outline](https://github.com/cjclifto/tswd_portfolio/assets/140766598/9ff38c0c-31b4-4807-bf11-03d36b92d2c3)
 
-For now, I think I'll need two data visualizations to drive home my point, but I may end up combining them at some point for the final submission. 
+For now, I think I'll need two data visualizations to drive home my point, but I may end up adding a third visualization somewhere by the time it's all said and done. 
 
 ### Initial Sketches
+To tell my story, I want to point out the shocking impact that our clothes have on climate change. To do this, I plan to use some data about top industries that contribute to greenhouse gas emissions, of which the fashion industry is a large part, highlighting the "point of no return" value outlined by climate scientists around the world - and more importantly, how close we are to that line in recent years! 
+
+![sketch_atmT_time](https://github.com/cjclifto/tswd_portfolio/assets/140766598/a6039aa6-21e5-458d-b80a-05749bf168b9)
+
+However, I don't want the whole story to be doom and gloom. I want to have a clear message at the end of my story that industrial-level change may seem too much of a behemoth to take on, but it's totally possible! I plan to write about key metrics that indicate this change is possible (e.g., the Eureka Innovation Lab at Levi's, whose designers engineered a way to laser-distress denim jeans, reducing water consumption used to make a single pair of jeans by 96 percent). I don't have much raw data to work with for this point besides a bunch of callout statistics, so I thought a good way to visualize this would be a timeline. Along this timeline, key indicators of hope for a more sustainable fashion industry will be pointed out, leading to the open-ended land of opportunity in the "future of fashion."
+
+![sketch_timeline](https://github.com/cjclifto/tswd_portfolio/assets/140766598/aa4c825f-c991-475d-a4d1-55dad2373bce)
 
 ### Let's Examine the Data
 
+
 ### Method & Medium
+
+
+### In-Class Critique
+
 
 ---
 _Thank you for taking the time to check out my work!_
