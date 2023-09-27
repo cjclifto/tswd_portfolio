@@ -35,12 +35,9 @@ However, I don't want the whole story to be doom and gloom. I want to have a cle
 ![sketch_timeline](https://github.com/cjclifto/tswd_portfolio/assets/140766598/aa4c825f-c991-475d-a4d1-55dad2373bce)
 
 ### Let's Examine the Data
-
+My first main data set is from the Environmental Protection Agency (EPA). The EPA compiles data into [an annual report](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks) for greenhouse gas emissions and sinks, or places where carbon emissions are eaten up (e.g., large forested areas), across the United States. They provide a [data explorer](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all) that allows for interaction and downloading of the raw data used in the summary report. The data goes back to 1990, and I plan to show the increase of emissions across this entire span. 
 
 ### Method & Medium
-
-
-### In-Class Critique
 
 
 ---
