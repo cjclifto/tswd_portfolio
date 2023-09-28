@@ -50,7 +50,11 @@ I plan to complete my final project using Shorthand. I'm playing around with the
 
 test
 
-" <a href="cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">Unfit, Unfair, Unfashionable.</a> "
+[" <a href="cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">Unfit, Unfair, Unfashionable.</a> "]
+
+[test](https://cjclifto.github.io/tswd_portfolio/fastfashioneurope.pdf)
+
+
 
 
 5. A.BCH. ["About"](https://abch.world/pages/about-abch)
