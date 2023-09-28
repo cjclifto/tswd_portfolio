@@ -46,7 +46,7 @@ I plan to complete my final project using Shorthand. I'm playing around with the
 1. Levi's. ["How Levi’s® is Saving Water"](https://www.levistrauss.com/2019/03/25/world-water-day-2019-saving-h2o/)
 2. Environmental Protection Agency. ["Inventory of U.S. Greenhouse Gas Emissions and Sinks"](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
 3. Environmental Protection Agency. ["Greenhouse Gas Inventory Data Explorer"](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all)
-4. Hot or Cool Institute. <a href="cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">"Unfit, Unfair, Unfashionable."</a>
+4. Hot or Cool Institute. <a href="https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">"Unfit, Unfair, Unfashionable."</a>
 
 5. A.BCH. ["About"](https://abch.world/pages/about-abch)
 6. Girlfrield Collective. ["About"](https://girlfriend.com/pages/about-girlfriend)
