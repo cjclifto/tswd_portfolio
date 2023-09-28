@@ -4,7 +4,7 @@ Final Assignment, Part I
 
 Authored by Clarissa Clifton
 
-Last edited: 26 September 2023
+Last edited: 27 September 2023
 
 [Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
 
@@ -35,9 +35,9 @@ However, I don't want the whole story to be doom and gloom. I want to have a cle
 ![sketch_timeline](https://github.com/cjclifto/tswd_portfolio/assets/140766598/aa4c825f-c991-475d-a4d1-55dad2373bce)
 
 ### Let's Examine the Data
-My first main data set is from the Environmental Protection Agency (EPA). The EPA compiles data into [an annual report](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks) for greenhouse gas emissions and sinks, or places where carbon emissions are eaten up (e.g., large forested areas), across the United States.^2^ They provide a [data explorer](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all) that allows for interaction and downloading of the raw data used in the summary report.^3^ The data goes back to 1990, and I plan to show the increase of emissions across this entire span. However, this data doesn't specify the fashion industry, but rather "industry" in general. To supplement this, I plan on using ![this climate impact report from the Hot or Cool Institute](https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf) to supplement the emissions and consumption data specifically for the fashion industry.^4^ 
+My first main data set is from the Environmental Protection Agency (EPA). The EPA compiles data into [an annual report](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks) for greenhouse gas emissions and sinks, or places where carbon emissions are eaten up (e.g., large forested areas), across the United States.<sup>2</sup> They provide a [data explorer](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all) that allows for interaction and downloading of the raw data used in the summary report.<sup>3</sup> The data goes back to 1990, and I plan to show the increase of emissions across this entire span. However, this data doesn't specify the fashion industry, but rather "industry" in general. To supplement this, I plan on using ![this climate impact report from the Hot or Cool Institute](https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf) to supplement the emissions and consumption data specifically for the fashion industry.<sup>4</sup>
 
-For points in the story around sustainable fashion in recent years (both the timeline visual and the writing supplementing it), I plan on using single statistics from brands' websites, such as [A.BCH](https://abch.world/pages/about-abch) and [Girlfriend Collective](https://girlfriend.com/pages/about-girlfriend).^5,6^ I also plan on using data from Statista industry reports focused on ![Fast Fashion in Europe](https://cjclifto.github.io/tswd_portfolio/fastfashioneurope.pdf) and ![Sustainable Fashion Worldwide](https://cjclifto.github.io/tswd_portfolio/sustainablefashionworldwide.pdf), but I haven't figured out the best way to incorporate these data yet.^7,8^ I may make another visualization for the Statista data. 
+For points in the story around sustainable fashion in recent years (both the timeline visual and the writing supplementing it), I plan on using single statistics from brands' websites, such as [A.BCH](https://abch.world/pages/about-abch) and [Girlfriend Collective](https://girlfriend.com/pages/about-girlfriend).<sup>5,6</sup> I also plan on using data from Statista industry reports focused on ![Fast Fashion in Europe](https://cjclifto.github.io/tswd_portfolio/fastfashioneurope.pdf) and ![Sustainable Fashion Worldwide](https://cjclifto.github.io/tswd_portfolio/sustainablefashionworldwide.pdf), but I haven't figured out the best way to incorporate these data yet.<sup>7,8</sup> I may make another visualization for the Statista data. 
 
 ### Method & Medium
 I plan to complete my final project using Shorthand. I'm playing around with the idea of having a through-line in the story centered around an article of clothing, perhaps something like "the lifecycle of your jeans" or something. In this case, I will include some pictures in between blocks of text showcasing the progression from cotton farming, fabric manufacturing, garment making, then maybe a side-by-side of clothes in a landfill versus a heavily mended pair of jeans. 
@@ -46,7 +46,8 @@ I plan to complete my final project using Shorthand. I'm playing around with the
 1. Levi's. ["How Levi’s® is Saving Water"](https://www.levistrauss.com/2019/03/25/world-water-day-2019-saving-h2o/)
 2. Environmental Protection Agency. ["Inventory of U.S. Greenhouse Gas Emissions and Sinks"](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
 3. Environmental Protection Agency. ["Greenhouse Gas Inventory Data Explorer"](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all)
-4. Hot or Cool Institute. !["Unfit, Unfair, Unfashionable."](https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf)
+4. Hot or Cool Institute. <a href="cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">"Unfit, Unfair, Unfashionable."</a>
+
 5. A.BCH. ["About"](https://abch.world/pages/about-abch)
 6. Girlfrield Collective. ["About"](https://girlfriend.com/pages/about-girlfriend)
 7. Statista. !["Fast Fashion in Europe"](https://cjclifto.github.io/tswd_portfolio/fastfashioneurope.pdf)
