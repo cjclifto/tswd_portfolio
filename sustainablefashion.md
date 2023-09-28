@@ -48,7 +48,9 @@ I plan to complete my final project using Shorthand. I'm playing around with the
 3. Environmental Protection Agency. ["Greenhouse Gas Inventory Data Explorer"](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all)
 4. Hot or Cool Institute. <a href="https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">"Unfit, Unfair, Unfashionable."</a>
 
-<a href="[https://cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf)" target="_blank">"Unfit, Unfair, Unfashionable."</a>
+test
+
+" <a href="cjclifto.github.io/tswd_portfolio/Hot_or_Cool_1_5_fashion_report_.pdf" target="_blank">Unfit, Unfair, Unfashionable.</a> "
 
 
 5. A.BCH. ["About"](https://abch.world/pages/about-abch)
