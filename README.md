@@ -16,7 +16,9 @@ Once I graduate, I plan to work in the startup world on disease diagnostics plat
 
 [Student Debt in the United States](https://cjclifto.github.io/tswd_portfolio/assignment3_4.html)
 
-[Sustainability in Fashion](https://cjclifto.github.io/tswd_portfolio/sustainablefashion.html)
+[Sustainability in Fashion, Part I](https://cjclifto.github.io/tswd_portfolio/sustainablefashion.html)
+
+[Sustainability in Fashion, Part II](https://cjclifto.github.io/tswd_portfolio/sustainablefashion_part2.html)
 
 ***
 _Thank you for taking the time to check out my work!_
