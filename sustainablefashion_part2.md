@@ -15,7 +15,10 @@ To think about how I wanted my story to _look_, I Googled "textile recycling" an
 
 <img width="546" alt="textilerecycling_moodboard" src="https://github.com/cjclifto/tswd_portfolio/assets/140766598/dd6dc254-3b14-4f1b-a756-db9062d9b6f4">
 
+Common things I see are the colors pink and green, triangles, and imagery of fabric. I will try to incorporate these concepts in the design of my Shorthand framework. 
+
 ## Shorthand, or the advent of a story skeleton
+
 
 ## So, what does my audience think?
 ### Target audience & plan of approach
