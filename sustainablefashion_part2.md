@@ -8,6 +8,8 @@ Last edited: 04 October 2023
 
 [Link to homepage](https://cjclifto.github.io/tswd_portfolio/)
 
+[Visit Sustainability in Fashion, Part I](https://cjclifto.github.io/tswd_portfolio/sustainablefashion.html)
+
 ### Shorthand, or the advent of a story skeleton
 
 ### So, what does my audience think?
