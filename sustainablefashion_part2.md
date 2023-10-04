@@ -10,13 +10,17 @@ Last edited: 04 October 2023
 
 [Visit Sustainability in Fashion, Part I](https://cjclifto.github.io/tswd_portfolio/sustainablefashion.html)
 
-### Shorthand, or the advent of a story skeleton
+## What's the vibe?
 
-### So, what does my audience think?
+## Shorthand, or the advent of a story skeleton
 
-### What's the vibe?
+## So, what does my audience think?
+### Target audience & plan of approach
+### Questions for my interviewees
+### Interview findings
+## Planned changes for the Final final
 
-### References
+## References
 1. Levi's. ["How Levi’s® is Saving Water"](https://www.levistrauss.com/2019/03/25/world-water-day-2019-saving-h2o/)
 2. Environmental Protection Agency. ["Inventory of U.S. Greenhouse Gas Emissions and Sinks"](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
 3. Environmental Protection Agency. ["Greenhouse Gas Inventory Data Explorer"](https://cfpub.epa.gov/ghgdata/inventoryexplorer/#industry/entiresector/allgas/category/all)
