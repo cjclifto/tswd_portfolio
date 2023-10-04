@@ -11,6 +11,9 @@ Last edited: 04 October 2023
 [Visit Sustainability in Fashion, Part I](https://cjclifto.github.io/tswd_portfolio/sustainablefashion.html)
 
 ## What's the vibe?
+To think about how I wanted my story to _look_, I Googled "textile recycling" and took some screenshots of the most common recurring pictures/themes I saw. Among the common things were smaller sustainable fashion brands that sell "take back bags," or bags that consumers can stuff with clothes they don't want, send back to the company, then the company will take care of either recycling the clothes or sending usable clothes to secondhand stores all over the US. These brands use punchy, loud colors and fun, modern iconography/typography for branding. Other common images that came up were piles of clothes and/or strips of clothes, as well as fabric cutouts and advertisements asking folks to recycle clothing.
+
+<img width="546" alt="textilerecycling_moodboard" src="https://github.com/cjclifto/tswd_portfolio/assets/140766598/dd6dc254-3b14-4f1b-a756-db9062d9b6f4">
 
 ## Shorthand, or the advent of a story skeleton
 
