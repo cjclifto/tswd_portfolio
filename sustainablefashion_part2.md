@@ -17,8 +17,7 @@ To think about how I wanted my story to _look_, I Googled "textile recycling" an
 
 Common things I see are the colors pink and green, triangles, and imagery of fabric. I will try to incorporate these concepts in the design of my Shorthand framework. 
 
-## Shorthand, or the advent of a story skeleton
-
+[Here is the link for my Shorthand skeleton](https://carnegiemellon.shorthandstories.com/the-life-of-your-jeans/index.html)
 
 ## So, what does my audience think?
 ### Target audience & plan of approach
