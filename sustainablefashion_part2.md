@@ -20,10 +20,42 @@ Common things I see are the colors pink and green, triangles, and imagery of fab
 [Here is the link for my Shorthand skeleton](https://carnegiemellon.shorthandstories.com/the-life-of-your-jeans/index.html)
 
 ## So, what does my audience think?
-### Target audience & plan of approach
-### Questions for my interviewees
+### Target audience, plan of approach, & questions to ask
+As a reminder from our last update, I considered three reader groups for my story: fashion executives, average citizens, and engineers/scientists capable of designing processes for large scale textile recycling. From these reader groups, I saw the user stories below:
+
+As a _fashion executive_, I want _explanations_ so that I can _understand textile recycling supply chains_.
+
+As an _average citizen_, I want _to know ways I can participate in circular fashion_ so I can _make an individual impact on climate change_.
+
+As a(n) _scientist/engineer_, I want _to understand industry barriers_ so I can _innovate new technologies for change_.
+
+I am friends with many scientists and engineers here on campus, as well as friends in the sustainable fashion sector. I figure that's pretty good, to hit two of my three target audiences! I plan to spend ~15 minutes with each of them getting their thoughts on both my industry breakdown and timeline visualizations.
+
+The questions I plan to ask are the following:
+
+_What works here for you?_
+
+_What doesn't work, aesthetically?_
+
+_What doesn't work, informationally?_
+
+_What would you do differently?_
+
 ### Interview findings
+I interviewed two students in their mid-20s, as well as one designer in their late 20s. I expected to get different comments from all parties, but the comments across the questions were actually pretty similar! As such, I will summarize the main points in the following sections.
+
+Something that worked well for everyone I interviewed was the color scheme! The general flow of the story seemed to make sense for all my interviewees, as well, pending the addition of more details where I had written "fill in all talking points here later" (or similar).
+
+#### Area Chart
+I got the suggestion a few times to change the ordering of the area charts to make the smaller areas on the bottom, with the highlighted section on the top. I also got the suggestion to make the industry/fashion sectors a much brighter highlighted color. I also got the comment to add units to the x- and y-axes, which is a simple change to implement.
+
+#### Timeline
+Something that was suggested by one interviewee for the timeline was to switch the chronological order of it. Another main point given by two interviewees was to make the second point on the timeline a positive point; they pointed out it seemed that the narrative seemed to start positive, dip into negative, then remain positive for the rest of the timeline - which is confusing!
+
 ## Planned changes for the Final final
+First, I don't necessarily want to follow the switching timeline advice, so as to avoid the Timelord trip-up we discussed in the first couple weeks of class, but I like the idea of stating what the timeline is building towards in the very front. I also like the idea of switching the stacking order of the area chart - I agree that these charts do not look the way I want them to, and they will likely evolve quite a bit between now and our final presentation.
+
+I also need to add in all of my data and image references used throughout the wireframe, and make sure they look nice - and don't distract from the story. 
 
 ## References
 1. Levi's. ["How Levi’s® is Saving Water"](https://www.levistrauss.com/2019/03/25/world-water-day-2019-saving-h2o/)
