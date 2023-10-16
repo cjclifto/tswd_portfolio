@@ -20,5 +20,7 @@ Once I graduate, I plan to work in the startup world on disease diagnostics plat
 
 [Sustainability in Fashion, Part II](https://cjclifto.github.io/tswd_portfolio/sustainablefashion_part2.html)
 
+[Sustainability in Fashion, Part III](https://cjclifto.github.io/tswd_portfolio/sustainablefashion_part3.html)
+
 ***
 _Thank you for taking the time to check out my work!_
